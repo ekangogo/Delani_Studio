@@ -8,8 +8,6 @@
 
 This project is a web application for Delani studio that shows details about the services it offers, has information about the studio, a portfolio section and a form that enables users to send their messages and concern to Delani studios. 
 
-## Screenshot
-<img src="https://raw.githubusercontent.com/Kangogo-Ezekiel/Delani-Studio/master/images/delanihome.png" width="900px" height="440px">
 
 ## Live Page 
 https:// 
@@ -18,7 +16,7 @@ https://
 ## Installation / Setup instruction
 * Open Terminal {Ctrl+Alt+T}
 
-* git clone ```https://github.com/ekangogo/Delani-Studio.git```
+* git clone ```https://github.com/ekangogo/Delani_Studio.git```
 
 * cd Delani-Studio
 

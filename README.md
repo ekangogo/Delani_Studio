@@ -10,7 +10,7 @@ This project is a web application for Delani studio that shows details about the
 
 
 ## Live Page 
-https:// 
+https://ekangogo.github.io/Delani_Studio/
 
 
 ## Installation / Setup instruction
@@ -49,4 +49,4 @@ If you have any question or contributions, please email me at [ekangogo@gmail.co
 
 ## License
 * *MIT License:*
-* Copyright (c) 2023 **Ezekiel Kangogo**
+* Copyright (c) 2023 **Ezekiel Kangogo*

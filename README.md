@@ -49,4 +49,4 @@ If you have any question or contributions, please email me at [ekangogo@gmail.co
 
 ## License
 * *MIT License:*
-* Copyright (c) 2023 **Ezekiel Kangogo**
+* Copyright (c) 2023 **Ezekiel Kangogo*
